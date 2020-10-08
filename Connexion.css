@@ -1,0 +1,33 @@
+img {
+    float:center;
+}
+h1{
+   font-family: 'Times New Roman', Times, serif; 
+   color:#000000;
+}
+body{
+    background-color:#88c1d0;
+
+}
+.Sign-in {
+float:center
+}
+.motdepasse:hover{
+    border:solid;
+    background-color: whitesmoke;
+    border-color:#ffac4b;
+    transition: 900ms;
+    width:25vw;
+    padding-bottom:5vh;color: #ffffff!important;
+    border-width: 8px!important;
+    border-color: #ffca4b;
+    border-radius: 75px;
+    letter-spacing: 2px;
+    font-size: 14px;
+    font-weight: 350!important;
+    text-transform: uppercase!important;
+    padding-left: 0.7em;
+    padding-right: 2em;
+    background-color: #ffca4b;
+    float:center;
+}
